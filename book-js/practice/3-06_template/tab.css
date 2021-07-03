@@ -1,0 +1,17 @@
+.tab {
+  width: 500px;
+}
+.tab-nav {
+  display: flex;
+}
+.tab-nav-item {
+  background-color: #ccc;
+  color: #000;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px 5px 0 0;
+}
+.tab-contents {
+  border-radius: ;
+}
+.tab-contents-item
