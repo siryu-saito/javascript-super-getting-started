@@ -1,0 +1,23 @@
+.submenu {
+  h3 {
+    color: #5e78c1;
+    margin: 0 0 1em 0;
+    font-size: 16px;
+    cursor: pointer;
+
+    &:hover {
+      color: #b04188;
+      text-decoration: underline;
+    }
+  }
+
+  ul {
+    font-size: 14px;
+    margin: 0 0 1em 0;
+    list-style: none;
+  }
+
+  .hidden {
+    display: none;
+  }
+}
